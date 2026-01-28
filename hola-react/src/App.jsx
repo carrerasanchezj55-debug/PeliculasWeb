@@ -20,7 +20,7 @@ function App(){
 
       
       <h1>
-        Lista de peliculas
+        
       </h1>
         
         <div className="catalogo">
